@@ -7,10 +7,15 @@
 
 
 ### Sobre mim
-Sou um desenvolvedor {backend, frontend} apaixonado por ##Wordpress
+Sou um desenvolvedor {backend, frontend} apaixonado por Programação
 
 - [Cursos](https://github.com/robisonfb/estudos) 👨🏼‍🏫 - Aqui são alguns comit de cursos que realizei estão separado por branches confere ai 
+
 - [Website](https://www.7click.com.br/) 💻 - Trabalhando aqui.
 
 
-![Robison GitHub Stats](https://github-readme-stats.vercel.app/api?username=robisonfb&show_icons=true)
+ <div>
+  <a href="https://github.com/robisonfb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robisonfb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robisonfb&layout=compact&langs_count=7&theme=dracula"/>
+</div>
