@@ -9,8 +9,6 @@
 ### Sobre mim
 Sou um desenvolvedor {backend, frontend} apaixonado por Programação
 
-- [Cursos](https://github.com/robisonfb/estudos) 👨🏼‍🏫 - Aqui são alguns comit de cursos que realizei estão separado por branches confere ai 
-
 - [Website](https://www.7click.com.br/) 💻 - Trabalhando aqui.
 
 
